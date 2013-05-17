@@ -14,7 +14,7 @@ En del ger kunden e-u-for-i
 E                A         B     E  
 En del bjuder på fest, och massa bus  
 
-E             A                B
+E             A                B  
 Det är säkert bra, men det gör inte vi.  
 
 ##Brygga:
