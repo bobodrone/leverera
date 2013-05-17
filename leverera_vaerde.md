@@ -3,6 +3,8 @@ Leverera Värde
 
 Musik: [http://www.youtube.com/watch?v=T13sFvil0cI](http://www.youtube.com/watch?v=T13sFvil0cI)
 
+![Leverera Vaerde](value-added.gif)
+
 ##Vers 1:
 
 E            A          B          E  
